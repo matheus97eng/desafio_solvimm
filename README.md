@@ -29,4 +29,4 @@ O notebook foi todo desenvolvido em **Python**, utilizando as seguintes bibliote
 ## Conteúdo do diretório
 
 - [`notebook_de_apresentacao.ipynb`](https://github.com/matheus97eng/desafio_solvimm/blob/main/notebook_de_apresentacao.ipynb) - notebook onde foi realizado todo o desenvolvimento do trabalho. Contém as funções criadas, inclusive a função `validate`, juntamente com as explicações das tomadas de decisão e as explicações das funções.
-- pasta [data](https://github.com/matheus97eng/desafio_solvimm/tree/main/data) - contém a base de dados `reviews.tsv` utilizada para treinamento e teste do modelo
+- pasta [`data`](https://github.com/matheus97eng/desafio_solvimm/tree/main/data) - contém a base de dados `reviews.tsv` utilizada para treinamento e teste do modelo
